@@ -20,4 +20,4 @@ I love exploring new technologies and applying my knowledge in various projects,
 - Experimenting with Reinforcement Learning
 
 ### 📫 Let's Connect!
-- [LinkedIn](https://www.linkedin.com/in/RAJESHBOYA8)
+- [LinkedIn](https://www.linkedin.com/in/RAJESHBOYA888)
