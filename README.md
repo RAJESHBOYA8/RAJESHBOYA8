@@ -4,7 +4,7 @@ I'm a passionate Computer Science and Engineering student specializing in Artifi
 I love exploring new technologies and applying my knowledge in various projects, especially in the fields of data analytics, machine learning, and software development.
 
 ### 🔧 Technologies & Tools
-- Languages: Python, SQL, C
+- Languages: Python, Java , SQL, C
 - Data Analytics: Power BI, Tableau, Excel
 - Machine Learning: Scikit-Learn, Pandas, TensorFlow
 - Web Scraping: BeautifulSoup
