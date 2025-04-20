@@ -16,8 +16,6 @@ Gaining hands-on experience with ServiceNow
 
 Building projects in data analytics and automation
 
-📫 Let's Connect:
-Feel free to check out my repositories, connect, or collaborate on something interesting!
 
 ### 📫 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/RAJESHBOYA888)
