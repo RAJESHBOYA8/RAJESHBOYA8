@@ -1,23 +1,23 @@
 ### Hi there, I'm Rajesh! 👋
 
-I'm a passionate Computer Science and Engineering student specializing in Artificial Intelligence and Machine Learning.
-I love exploring new technologies and applying my knowledge in various projects, especially in the fields of data analytics, machine learning, and software development.
+I'm a tech enthusiast passionate about solving real-world problems using code. I'm currently diving deeper into Data Structures and Algorithms, building strong foundations with Python, and exploring the world of Data Analytics and ServiceNow development.
 
-### 🔧 Technologies & Tools
-- Languages: Python, Java , SQL, C
-- Data Analytics: Power BI, Tableau, Excel
-- Machine Learning: Scikit-Learn, Pandas, TensorFlow
-- Web Scraping: BeautifulSoup
-- Database Management: MySQL
+💻 What I Know:
+Programming: Python, Java (basic)
 
-### 📈 What I'm Working On
-- Building dashboards with Power BI and Tableau
-- Exploring advanced Machine Learning techniques
+DSA: Practicing and solving problems regularly
 
-### 🌱 Always Learning
-- Deepening my knowledge in Machine Learning and AI
-- Practicing coding problems for upcoming interviews
-- Experimenting with Reinforcement Learning
+ServiceNow: Learning ITSM and working on ServiceNow workflows and scripting
+
+🚀 Current Focus:
+Improving my DSA skills for coding interviews
+
+Gaining hands-on experience with ServiceNow
+
+Building projects in data analytics and automation
+
+📫 Let's Connect:
+Feel free to check out my repositories, connect, or collaborate on something interesting!
 
 ### 📫 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/RAJESHBOYA888)
